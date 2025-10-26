@@ -1,6 +1,6 @@
 # 🚗 Garage Name
 
-Welcome to **[Your Garage Name]** - Your trusted automotive service center!
+Your trusted automotive service center!
 
 ## 📋 About Us
 
@@ -36,7 +36,7 @@ Sunday: Closed
 
 - **Phone:** (555) 123-4567
 - **Email:** info@yourgarage.com
-- **Website:** www.yourgarage.com
+- **Website:** https://www.yourgarage.com
 
 ## 💼 Why Choose Us?
 
@@ -50,7 +50,7 @@ Sunday: Closed
 ## 🎯 Getting Started
 
 1. **Schedule an Appointment**
-   - Call us at (555) 123-4567
+   - Call us at [Phone Number]
    - Book online through our website
    - Walk-ins welcome (subject to availability)
 
